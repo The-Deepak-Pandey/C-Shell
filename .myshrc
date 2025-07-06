@@ -1,0 +1,3 @@
+reveall = reveal -l
+home = hop .. | wc
+see = wc > a.txt | hop ..

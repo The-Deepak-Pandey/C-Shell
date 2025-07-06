@@ -1,0 +1,15 @@
+hop
+reveal
+hop
+reveall
+reveal
+hop
+reveal
+hop ..
+iMan sleep
+sleep 5 &
+sleep 5
+cat
+cd
+sleep 5 &
+ls

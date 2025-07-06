@@ -1,8 +1,3 @@
-reveal
-hop ..
-iMan sleep
-sleep 5 &
-sleep 5
 cat
 cd
 sleep 5 &
@@ -13,3 +8,8 @@ reveal
 hop ..
 ls
 reveal
+hop ..
+reveal
+hop dp deepak-pandey
+reveal
+hop Desktop

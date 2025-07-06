@@ -1,15 +1,15 @@
-cat
-cd
-sleep 5 &
-ls
-hop desktop
-hop /Desktop
-reveal
-hop ..
-ls
-reveal
-hop ..
-reveal
-hop dp deepak-pandey
-reveal
 hop Desktop
+hop doi
+clear
+reveal
+hop ..
+reveal
+hop IPA
+hop ST
+hop ..
+sleep 10
+sleep 5 & hop SP
+sleep 5
+reveal
+sleep 2 & hop ..
+hop ..

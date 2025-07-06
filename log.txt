@@ -1,9 +1,3 @@
-hop
-reveal
-hop
-reveall
-reveal
-hop
 reveal
 hop ..
 iMan sleep
@@ -13,3 +7,9 @@ cat
 cd
 sleep 5 &
 ls
+hop desktop
+hop /Desktop
+reveal
+hop ..
+ls
+reveal

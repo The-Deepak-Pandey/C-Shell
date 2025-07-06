@@ -1,15 +1,15 @@
-hop Desktop
-hop doi
-clear
-reveal
-hop ..
-reveal
-hop IPA
-hop ST
-hop ..
-sleep 10
-sleep 5 & hop SP
 sleep 5
 reveal
 sleep 2 & hop ..
 hop ..
+reveal
+hop ..
+hop .. | wc
+hop ..
+hop .
+hop ..
+ cd home
+cd home
+cd /home
+ls
+cd deepak-pandey
